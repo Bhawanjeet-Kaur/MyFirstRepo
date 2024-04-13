@@ -15,6 +15,7 @@ int main(void) {
     }
     else
     {
+        printf("\n");
         printf("%d", error);
         return 1;
     }
